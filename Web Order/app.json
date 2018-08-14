@@ -1,0 +1,22 @@
+{
+  "id": "b1e61db4-f1cb-4627-9a92-0c58a08565fa",
+  "name": "Web Order",
+  "publisher": "Umbrella Corp. By Jeff",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
